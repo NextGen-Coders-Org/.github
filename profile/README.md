@@ -1,4 +1,4 @@
-# 🚀 Next Gen Coder  
+# 🚀 NextGen Coder  
 
 Welcome to **Next Gen Coder**—A community of passionate developers, innovators, and problem-solvers!  
 
